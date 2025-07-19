@@ -1,4 +1,3 @@
-Okay, I've removed all emojis from the README content. Here it is:
 
 Fashion Item Classifier (CNN)
 This project trains a powerful image classification model (a Convolutional Neural Network) to automatically identify different types of clothing items from images.
